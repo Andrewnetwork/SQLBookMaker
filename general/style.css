@@ -1,0 +1,47 @@
+/* CSS Document */
+
+body {
+	background-color: #66FF66;
+	background-image: url(../img/bg.jpg);
+}
+.subItem
+{
+	color:#000000;
+	padding-left:20px;
+	font-size:12px;
+	cursor:pointer;
+	clear:both;
+}
+
+.expandPlus
+{
+	color:#00FF00;
+	font-size:16px;
+	padding-right:5px;
+	clear:left;
+	float:left;
+	cursor:pointer;
+}
+.subMinus
+{
+	color:#FF0000;
+	font-size:16px;
+	clear:left;
+	float:left;
+	padding-right:5px;
+}
+
+.navElement
+{
+	width:138px;
+	overflow:hidden;
+	padding-left:2px;
+	cursor:pointer;
+}
+
+.sectionTitle
+{
+	font-size:16px;
+	float:left;
+	cursor:pointer;
+}
